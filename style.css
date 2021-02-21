@@ -65,6 +65,13 @@ html {
 	font-size: 1.4rem;
 }
 
+.form-control.list-gender {
+	border: none;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
 .form-control:hover {
 	border-color: #1dbfaf;
 }
